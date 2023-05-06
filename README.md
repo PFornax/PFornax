@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=PFornax&theme=algolia&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=PFornax&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
