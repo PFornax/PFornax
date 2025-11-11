@@ -6,7 +6,6 @@ I like to code c:
 Student
 
 My Discord: PFornax
-https://discordapp.com/users/398853708747898880
 <!--
 **PFornax/PFornax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
