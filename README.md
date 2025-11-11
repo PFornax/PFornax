@@ -3,9 +3,9 @@
 #
 I like to code c:
 
-I'm currently learning C# and working on a OpenGL based animation software.
+Student
 
-My Discord: PFornax#2902
+My Discord: PFornax
 https://discordapp.com/users/398853708747898880
 <!--
 **PFornax/PFornax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
